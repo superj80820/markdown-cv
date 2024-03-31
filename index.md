@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: York Lin's CV
 ---
-# Isaac Newton
+# York Lin
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
